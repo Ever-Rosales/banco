@@ -2,6 +2,7 @@ package banco;
 import java.util.Scanner;
 public class Tarjeta {
     //ATRIBUTOS
+    //hola
     Scanner sc;
     
     public String Nombre;
